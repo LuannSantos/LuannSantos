@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Perfil voltado a projetos de Ciência/Engenharia de dados
+
+Atualmente, estou atuando na área de automação de processos, através da ferramenta Bizagi no Grupo Pentago Brasil.
+
+Sou técnico em eletrotécnica e formado em Engenharia Elétrica pela Universidade Federal do Espirito Santo.
+
+## Contatos
+
+<a href="https://www.linkedin.com/in/luann-rodrigues-santos-02795b156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 <!--
 **LuannSantos/LuannSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
