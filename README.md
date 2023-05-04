@@ -10,6 +10,10 @@ Sou técnico em eletrotécnica e formado em Engenharia Elétrica pela Universida
 
 <a href="https://www.linkedin.com/in/luann-rodrigues-santos-02795b156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuannSantos&show_icons=true&locale=en&layout=compact" alt="LuannSantos" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuannSantos&show_icons=true&locale=en" alt="LuannSantos" /></p>
+
 <!--
 **LuannSantos/LuannSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
