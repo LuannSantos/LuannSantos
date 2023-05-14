@@ -2,7 +2,7 @@
 
 Perfil voltado a projetos de Ciência/Engenharia de dados
 
-Atualmente, estou atuando na área de automação de processos, através da ferramenta Bizagi no Grupo Pentago Brasil.
+Atualmente, estou atuando na área de automação de processos, através da ferramenta Bizagi na PSM Company.
 
 Sou técnico em eletrotécnica e formado em Engenharia Elétrica pela Universidade Federal do Espirito Santo.
 
